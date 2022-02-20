@@ -1,0 +1,19 @@
+{
+  "name": "jstestabountbase",
+  "version": "1.0.0",
+  "description": "//some command npm \r npm config ls -l",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "  "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RealREDR/jstestAbountBase.git"
+  },
+  "author": "npmuser (http://cyscompomenttest.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RealREDR/jstestAbountBase/issues"
+  },
+  "homepage": "https://github.com/RealREDR/jstestAbountBase#readme"
+}
